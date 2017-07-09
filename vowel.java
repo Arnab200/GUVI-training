@@ -8,6 +8,9 @@ public class HelloWorld{
         if(r == 'a' || r =='e'  || r == 'i' || r =='o' || r=='u'){
             System.out.println("The character entered is a vowel:");
         }
+        else{
+          System.out.println("The character entered is a consonant");
+        }
             
         
         
